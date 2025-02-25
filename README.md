@@ -13,7 +13,7 @@ This **Sales Dashboard** is built using **Microsoft Excel** to analyze sales per
 ✅ Interactive Charts and Filters  
 
 ## 📌 Dashboard Preview:
-![Sales Dashboard]()
+![Sales Dashboard](https://github.com/saikumar0484/Sales-Dashboard-Excel/blob/main/Sales%20Dashboard%20(Excel)/Dashboard%20Img.png)
 
 ## 🚀 How to Use:
 1. **Download** the Excel file from this repository.
@@ -21,7 +21,7 @@ This **Sales Dashboard** is built using **Microsoft Excel** to analyze sales per
 3. **Explore** the interactive visuals and gain insights.
 
 ## 📊 Data Source:
-The dashboard is based on anonymized sales data from various sources.
+https://github.com/saikumar0484/Sales-Dashboard-Excel/tree/main/Sales%20Dashboard%20(Excel)
 
 ## 🔗 Connect with Me:
 📧 rayalasai874@gmail.com  | 💼 www.linkedin.com/in/rayala-sai-kumar
